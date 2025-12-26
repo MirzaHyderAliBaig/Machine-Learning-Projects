@@ -119,6 +119,4 @@ plt.title("Actual vs Predicted Tax Rate (Log-Transformed Model)")
 plt.grid(True)
 plt.show()
 
-# ----------------------------
-# End of Script
-# ----------------------------
+
